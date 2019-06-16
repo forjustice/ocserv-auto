@@ -38,7 +38,7 @@ yum install net-tools
 
 * 拉取并执行脚本
 ```bash
-git clone https://github.com/crh5354/ocserv-auto
+git clone https://github.com/forjustice/ocserv-auto
 cd ocserv-auto
 chmod +x ocserv-auto.sh
 sh ./ocserv-auto.sh
